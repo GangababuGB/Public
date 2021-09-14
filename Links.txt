@@ -1,0 +1,25 @@
+Python for datascience by Nicholas Renotte
+https://youtu.be/yGN28LY5VuA
+
+GL
+Stats
+https://youtu.be/BvpeBmHgijk?list=PLlgLmuG_KgbYcY0WcqV441o9waKuHS7jz
+Python
+https://youtu.be/RJWlUyfOy1o?list=PLlgLmuG_Kgbb5-j647H1HQjhPZOXrRaAx
+ML
+https://youtu.be/RnFGwxJwx-0?list=PLlgLmuG_KgbY9D2och81Y1NqiUp3KTXv3
+official learning site
+https://www.greatlearning.in/
+
+https://huggingface.co/
+https://www.kaggle.com/learn
+https://www.sololearn.com
+
+https://github.com/PAVANINADELLA/DATA-SCIENCE-NOTES
+https://www.linkedin.com/pulse/40-days-ai-steve-nouri
+https://modelzoo.co/
+https://rasa.com/
+
+
+Python practice list : 
+https://drive.google.com/drive/folders/1xz-7xsfaTNjx0WP9ophLpNPmdq6NLcT4?usp=sharing
