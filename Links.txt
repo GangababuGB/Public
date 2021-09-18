@@ -29,6 +29,8 @@ https://www.datascienceexamples.com/csv-file-reading-without-pandas/
 python read text file and create data frame without pandas
 http://dizzycoding.com/convert-a-text-file-data-to-dataframe-in-python-without-pandas-code-answer/
 
+https://jakevdp.github.io/PythonDataScienceHandbook/04.12-three-dimensional-plotting.html
+
 import csv
 2
 ​
