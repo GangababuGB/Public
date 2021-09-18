@@ -23,3 +23,7 @@ https://rasa.com/
 
 Python practice list : 
 https://drive.google.com/drive/folders/1xz-7xsfaTNjx0WP9ophLpNPmdq6NLcT4?usp=sharing
+
+https://realpython.com/python-csv/#:~:text=Reading%20CSV%20Files%20With%20csv%20Reading%20from%20a,to%20the%20reader%2C%20which%20does%20the%20heavy%20lifting.
+https://www.datascienceexamples.com/csv-file-reading-without-pandas/
+python read text file and create data frame without pandas
