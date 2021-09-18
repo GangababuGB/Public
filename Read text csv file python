@@ -17,9 +17,9 @@ for row in csvreader:
 print(header)
 print(rows)
 
-############## Method 2
+############## Method 2 simple and effective
 with open('Unemployment_Rate_M_Total.txt') as file:
-    content = file.readlines()
+    content = file.read()
 header = content[1:2]
 rows = content[2:]
 print(header)
