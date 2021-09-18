@@ -1,4 +1,4 @@
-https://mybinder.org/
+https://nbviewer.jupyter.org/
 https://colab.research.google.com/notebooks/intro.ipynb?utm_source=scs-index
 
 Python for datascience by Nicholas Renotte
