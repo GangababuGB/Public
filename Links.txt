@@ -27,3 +27,22 @@ https://drive.google.com/drive/folders/1xz-7xsfaTNjx0WP9ophLpNPmdq6NLcT4?usp=sha
 https://realpython.com/python-csv/#:~:text=Reading%20CSV%20Files%20With%20csv%20Reading%20from%20a,to%20the%20reader%2C%20which%20does%20the%20heavy%20lifting.
 https://www.datascienceexamples.com/csv-file-reading-without-pandas/
 python read text file and create data frame without pandas
+http://dizzycoding.com/convert-a-text-file-data-to-dataframe-in-python-without-pandas-code-answer/
+
+import csv
+2
+​
+3
+with open('log.txt', 'r') as in_file:
+4
+    stripped = (line.strip() for line in in_file)
+5
+    lines = (line.split(",") for line in stripped if line)
+6
+    with open('log.csv', 'w') as out_file:
+7
+        writer = csv.writer(out_file)
+8
+        writer.writerow(('title', 'intro'))
+9
+        writer.writerows(lines)
