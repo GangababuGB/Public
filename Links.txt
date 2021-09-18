@@ -1,3 +1,6 @@
+https://mybinder.org/
+https://colab.research.google.com/notebooks/intro.ipynb?utm_source=scs-index
+
 Python for datascience by Nicholas Renotte
 https://youtu.be/yGN28LY5VuA
 
