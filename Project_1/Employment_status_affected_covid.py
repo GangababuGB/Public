@@ -35,19 +35,44 @@ Key_features = ['Region', ' Date', ' Estimated Unemployment Rate (%)', ' Estimat
 # print(mapped)
 # Creating Dictionary Dataframe
 dicts_df = [dict(zip(Key_features, x)) for x in mapped]
+dictionary = {i: d for i, d in enumerate(dicts_df)}
+# print(dictionary)
 # Code to save Dataframe of dictionary in Local machine
-# out_file = open('dicts_df.txt', 'wt')
-# out_file.write(str(dicts_df))
+# out_file = open('dictionary.txt', 'wt')
+# out_file.write(str(dictionary))
 # out_file.close()
 
 All_region = list(set(Regc))
 All_region = sorted(All_region)
 print(All_region) # User options
 
+# state_in = input("Visualise which state from the above?: ") # defining input from user
+# # Temp bucket for state given by user
+# S_Buc = []
+# for row in dictionary[:224]:
+#     if row[0] == state_in:
+#         sorted(S_Buc)
+#         S_Buc.append(row)
+#
+# print(S_BUC)
+# sorted_list = sorted(S_Buc, key=lambda x: x[1])
+# arr2 = [item[3] for item in S_Buc]
+# https://www.programiz.com/python-programming/nested-dictionary
+mapped = []
+# to fetch data from dictionary.
+for i, j in dictionary.items():
+    for key in j:
+        #print(key + ':', j[key])
+        # print(j[key])
+        mapped.append(j[key])
+
+new_items = [mapped[i:i+5] for i in range(0, len(mapped), 5)]
+# print(len(new_items))
+# print(new_items)
 state_in = input("Visualise which state from the above?: ") # defining input from user
 # Temp bucket for state given by user
 S_Buc = []
-for row in mapped[:224]:
+for row in new_items[:224]:
     if row[0] == state_in:
         sorted(S_Buc)
         S_Buc.append(row)
@@ -89,16 +114,26 @@ plt.show()
 # mng.resize(*mng.window.maxsize())
 plt.plot(datex, arr1, label='Estimated Unemployment Rate (%)', color='Red', linestyle='dashed', linewidth = 1,
          marker='^', markerfacecolor='Red', markersize=6)
+for x,y in zip(datex,arr1):
+    label = y
+    plt.annotate(label,(x,y),textcoords="offset points",xytext=(0,10),ha='center')
 plt.plot(datex, arr3, label='Estimated Labour Participation Rate (%)',color='blue', linestyle='dashed', linewidth = 1,
          marker='o', markerfacecolor='blue', markersize=6)
+for x,y in zip(datex,arr3):
+    label = y
+    plt.annotate(label,(x,y),textcoords="offset points",xytext=(0,10),ha='center')
 plt.plot(datex, arr2, label='Estimated Employed Rate (%)',color='green', linestyle='dashed', linewidth = 1,
          marker='s', markerfacecolor='green', markersize=6)
+for x,y in zip(datex,arr2):
+    label = y
+    plt.annotate(label,(x,y),textcoords="offset points",xytext=(0,10),ha='center')
 plt.plot()
 
 plt.xlabel("Date")
 plt.ylabel("Rate(%)")
 plt.title(state_in)
 plt.figlegend(loc='upper right')
+
 plt.show()
 
 #Subplot
@@ -106,12 +141,21 @@ fig, (ax1, ax2, ax3) = plt.subplots(3)
 # fig.suptitle('Vertically stacked subplots')
 ax1.plot(datex, arr1, label='Estimated Unemployment Rate (%)', color='Red', linestyle='dashed', linewidth = 1,
          marker='^', markerfacecolor='Red', markersize=6)
+for x,y in zip(datex,arr1):
+    label = y
+    plt.annotate(label,(x,y),textcoords="offset points",xytext=(0,10),ha='center')
 ax1.set_title('Estimated Unemployment Rate (%)',fontsize = 15)
 ax2.plot(datex, arr3, label='Estimated Labour Participation Rate (%)',color='blue', linestyle='dashed', linewidth = 1,
          marker='o', markerfacecolor='blue', markersize=6)
+for x,y in zip(datex,arr3):
+    label = y
+    plt.annotate(label,(x,y),textcoords="offset points",xytext=(0,10),ha='center')
 ax2.set_title('Estimated Labour Participation Rate (%)')
 ax3.plot(datex, arr2,label='Estimated Employed Rate (%)',color='green', linestyle='dashed', linewidth = 1,
          marker='s', markerfacecolor='green', markersize=6)
+for x,y in zip(datex,arr2):
+    label = y
+    plt.annotate(label,(x,y),textcoords="offset points",xytext=(0,10),ha='center')
 ax3.set_title('Estimated Employed Rate (%)')
 plt.subplots_adjust(hspace=0.5)
 # mng = plt.get_current_fig_manager()
