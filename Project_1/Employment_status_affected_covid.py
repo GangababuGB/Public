@@ -77,9 +77,12 @@ for row in new_items[:224]:
         sorted(S_Buc)
         S_Buc.append(row)
 
-sorted_list = sorted(S_Buc, key=lambda x: x[1])
-arr2 = [item[3] for item in S_Buc]
+# sorted_list = sorted(S_Buc, key=lambda x: x[1])
 
+datex = [item[1] for item in S_Buc]
+arr1 = [item[2] for item in S_Buc]
+arr2 = [item[3] for item in S_Buc]
+arr3 = [item[4] for item in S_Buc]
 # Ploting
 import matplotlib.pyplot as plt
 plt.rcParams.update({'font.size': 10})
@@ -89,11 +92,16 @@ plt.rcParams.update({'font.size': 10})
 plt.plot([], [], color='r', label = 'Estimated Unemployment Rate (%)')
 plt.plot([], [], color='g', label = 'Estimated Labour Participation Rate (%)')
 plt.plot([], [], color='b', label = 'Estimated Employed Rate (%)')
-datex = [item[1] for item in S_Buc]
-arr1 = [item[2] for item in S_Buc]
-arr2 = [item[3] for item in S_Buc]
-arr3 = [item[4] for item in S_Buc]
 plt.stackplot(datex, arr1, arr3, arr2, colors= ['r', 'g', 'b'])
+for x,y in zip(datex,arr1):
+    label = y
+    plt.annotate(label,(x,y),textcoords="offset points",xytext=(0,10),ha='center')
+for x,y in zip(datex,arr3):
+    label = y
+    plt.annotate(label,(x,y),textcoords="offset points",xytext=(0,10),ha='center')
+for x,y in zip(datex,arr2):
+    label = y
+    plt.annotate(label,(x,y),textcoords="offset points",xytext=(0,5),ha='center')
 plt.title(state_in)
 plt.figlegend(loc='upper right')
 plt.show()
@@ -143,19 +151,19 @@ ax1.plot(datex, arr1, label='Estimated Unemployment Rate (%)', color='Red', line
          marker='^', markerfacecolor='Red', markersize=6)
 for x,y in zip(datex,arr1):
     label = y
-    plt.annotate(label,(x,y),textcoords="offset points",xytext=(0,10),ha='center')
+    ax1.annotate(label,(x,y),textcoords="offset points",xytext=(0,10),ha='center')
 ax1.set_title('Estimated Unemployment Rate (%)',fontsize = 15)
 ax2.plot(datex, arr3, label='Estimated Labour Participation Rate (%)',color='blue', linestyle='dashed', linewidth = 1,
          marker='o', markerfacecolor='blue', markersize=6)
 for x,y in zip(datex,arr3):
     label = y
-    plt.annotate(label,(x,y),textcoords="offset points",xytext=(0,10),ha='center')
+    ax2.annotate(label,(x,y),textcoords="offset points",xytext=(0,10),ha='center')
 ax2.set_title('Estimated Labour Participation Rate (%)')
 ax3.plot(datex, arr2,label='Estimated Employed Rate (%)',color='green', linestyle='dashed', linewidth = 1,
          marker='s', markerfacecolor='green', markersize=6)
 for x,y in zip(datex,arr2):
     label = y
-    plt.annotate(label,(x,y),textcoords="offset points",xytext=(0,10),ha='center')
+    ax3.annotate(label,(x,y),textcoords="offset points",xytext=(0,10),ha='center')
 ax3.set_title('Estimated Employed Rate (%)')
 plt.subplots_adjust(hspace=0.5)
 # mng = plt.get_current_fig_manager()
