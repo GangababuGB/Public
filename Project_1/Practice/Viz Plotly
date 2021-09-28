@@ -1,0 +1,29 @@
+import plotly.express as px
+# Creating the Figure instance
+fig = px.line(x=[1, 2, 3], y=[1, 2, 3])
+# printing the figure instance
+print(fig)
+fig.show()
+
+import plotly.express as px
+# using the iris dataset
+df = px.data.iris()
+# plotting the bar chart
+fig1 = px.bar(df, x="sepal_width", y="sepal_length")
+# showing the plot
+fig1.show()
+
+from plotly.offline import iplot
+import plotly.graph_objs as go
+
+data = [
+    go.Contour(
+        z=[[10, 10.625, 12.5, 15.625, 20],
+           [5.625, 6.25, 8.125, 11.25, 15.625],
+           [2.5, 3.125, 5., 8.125, 12.5],
+           [0.625, 1.25, 3.125, 6.25, 10.625],
+           [0, 0.625, 2.5, 5.625, 10]]
+    )
+]
+
+iplot(data)
