@@ -36,6 +36,5 @@ https://jakevdp.github.io/PythonDataScienceHandbook/04.12-three-dimensional-plot
 
 https://tfhub.dev/
 
-https://docs.google.com/presentation/d/11agh_6acHWCFs-ehgojhtJRsBL05dKnHzR_F7txcbxg/edit?usp=sharing
 
 https://drive.google.com/drive/folders/1xiq70N-rn75qksQPN2chSFQlGHnn2-V7?usp=sharing
