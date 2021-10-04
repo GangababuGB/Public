@@ -1,3 +1,5 @@
+DS
+https://www.youtube.com/watch?v=C2apEw9pgtw
 https://jovian.ai/learn/data-structures-and-algorithms-in-python
 
 Nvidia
