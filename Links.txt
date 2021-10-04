@@ -2,6 +2,13 @@ DS
 https://www.youtube.com/watch?v=C2apEw9pgtw
 https://jovian.ai/learn/data-structures-and-algorithms-in-python
 
+Nvidia JD:
+Nvidia Director: Jigar Halani
+Skills: Deepstream & TensorRT
+Triton Inference Server.
+Deepstream SDK,
+Kubernetes | Containers with deep kowledge in computer Vision
+
 Nvidia
 Nvidia free courses
 https://courses.nvidia.com/courses/course-v1:DLI+T-FX-01+V1/about
