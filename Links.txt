@@ -1,3 +1,5 @@
+https://jovian.ai/learn/data-structures-and-algorithms-in-python
+
 Nvidia
 Nvidia free courses
 https://courses.nvidia.com/courses/course-v1:DLI+T-FX-01+V1/about
