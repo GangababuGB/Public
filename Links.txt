@@ -1,3 +1,14 @@
+Nvidia
+
+https://www.nvidia.com/en-us/training/online/  **************** Important
+
+https://courses.nvidia.com/courses/course-v1:DLI+S-FX-01+V1/about
+to create developer profile
+https://developer.nvidia.com/deep-learning
+https://developer.nvidia.com/deep-learning-software
+https://www.nvidia.com/en-in/training/
+
+
 https://www.tensorflow.org/lite/microcontrollers
 
 https://www.arduino.cc/en/AI/HomePage
