@@ -1,6 +1,11 @@
 Nvidia
-course 1
+Nvidia free courses
+https://courses.nvidia.com/courses/course-v1:DLI+T-FX-01+V1/about
 https://courses.nvidia.com/courses/course-v1:DLI+S-RX-02+V2/about
+https://courses.nvidia.com/courses/course-v1:DLI+C-AC-02+V1/about
+
+Deepstream
+https://courses.nvidia.com/courses/course-v1:DLI+C-IV-02+V1/about
 
 Jetson Nano kit
 https://www.tannatechbiz.com/nvidia-jetson-nano-2gb-developer-kit.html
