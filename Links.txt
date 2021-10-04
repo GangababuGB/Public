@@ -1,3 +1,5 @@
+https://www.tensorflow.org/lite/microcontrollers
+
 https://www.arduino.cc/en/AI/HomePage
 https://create.arduino.cc/projecthub/Ameduino/face-detection-and-recognition-e4327a?ref=user&ref_id=567849&offset=1
 
