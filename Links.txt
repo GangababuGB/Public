@@ -2,6 +2,7 @@ Nvidia
 
 https://www.nvidia.com/en-us/training/online/  **************** Important
 
+https://www.nvidia.com/en-in/training/?ncid=pa-srch-goog-931470&gclid=EAIaIQobChMIk5atxPOv8wIVkc13Ch0F-AcJEAAYASABEgLpQfD_BwE#cid=_pa-srch-goog_en-in
 https://courses.nvidia.com/courses/course-v1:DLI+S-FX-01+V1/about
 to create developer profile
 https://developer.nvidia.com/deep-learning
