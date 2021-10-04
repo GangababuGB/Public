@@ -8,6 +8,7 @@ Skills: Deepstream & TensorRT
 Triton Inference Server.
 Deepstream SDK,
 Kubernetes | Containers with deep kowledge in computer Vision
+https://developer.nvidia.com/deepstream-sdk
 
 Nvidia
 Nvidia free courses
