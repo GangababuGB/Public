@@ -3,6 +3,7 @@ Nvidia
 Jetson Nano kit
 https://www.tannatechbiz.com/nvidia-jetson-nano-2gb-developer-kit.html
 https://rptechindia.in/catalog/product/view/id/5099/s/jetson-nano-2gb-developer-kit/category/532/
+https://www.arrow.com/en/products/945-13541-0001-000/nvidia
 
 https://www.nvidia.com/en-us/training/online/  **************** Important
 https://www.nvidia.com/en-in/training/online/
