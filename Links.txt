@@ -1,3 +1,8 @@
+MBA
+https://backup.pondiuni.edu.in/sites/default/files/downloads/DMS-MBA%20DATA%20ANALYTICS-Syllabus.pdf
+https://www.pondiuni.edu.in/programs/m-b-a-data-analytics-self-financing/
+
+
 https://nbviewer.jupyter.org/
 https://colab.research.google.com/notebooks/intro.ipynb?utm_source=scs-index
 
