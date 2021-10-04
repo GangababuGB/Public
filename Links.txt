@@ -1,4 +1,6 @@
 Nvidia
+course 1
+https://courses.nvidia.com/courses/course-v1:DLI+S-RX-02+V2/about
 
 Jetson Nano kit
 https://www.tannatechbiz.com/nvidia-jetson-nano-2gb-developer-kit.html
