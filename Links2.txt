@@ -20,3 +20,4 @@ https://drive.google.com/drive/folders/1xiq70N-rn75qksQPN2chSFQlGHnn2-V7
 nvidia:
 https://www.nvidia.com/en-in/training/online/
 https://developer.nvidia.com/embedded/learn/jetson-ai-certification-programs
+https://youtu.be/rSqIvLQ8Meg
