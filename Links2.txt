@@ -20,4 +20,7 @@ https://drive.google.com/drive/folders/1xiq70N-rn75qksQPN2chSFQlGHnn2-V7
 nvidia:
 https://www.nvidia.com/en-in/training/online/
 https://developer.nvidia.com/embedded/learn/jetson-ai-certification-programs
+Jetson AI Fundamentals - S1E4 - Emothon thumbs Project
 https://youtu.be/rSqIvLQ8Meg
+Jetson AI Fundamentals - S1E4 - Image Regression Project
+https://www.youtube.com/watch?v=LMsUP-W-3FI
