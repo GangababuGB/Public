@@ -24,3 +24,7 @@ Jetson AI Fundamentals - S1E4 - Emothon thumbs Project
 https://youtu.be/rSqIvLQ8Meg
 Jetson AI Fundamentals - S1E4 - Image Regression Project
 https://www.youtube.com/watch?v=LMsUP-W-3FI
+https://www.youtube.com/watch?v=QXIwdsyK7Rw
+
+Certificate:
+https://courses.nvidia.com/certificates/d2189671e6964097af9c9d7687d6f89d
