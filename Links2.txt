@@ -1,1 +1,21 @@
 https://anandology.com/python-practice-book/index.html
+https://ml-cheatsheet.readthedocs.io/en/latest/index.html
+https://www.ritchieng.com/machine-learning-resources/
+https://elitedatascience.com/learn-machine-learning
+https://www.datarobot.com/wiki/supervised-machine-learning/
+
+Python:
+data-structures-and-algorithms-in-python:
+https://jovian.ai/learn/data-structures-and-algorithms-in-python
+
+built-in-fun:
+https://www.programiz.com/python-programming/methods/built-in
+
+Andreas Mueller
+https://github.com/amueller/introduction_to_ml_with_python
+
+Python challenges:
+https://drive.google.com/drive/folders/1xiq70N-rn75qksQPN2chSFQlGHnn2-V7
+
+nvidia:
+https://www.nvidia.com/en-in/training/online/
