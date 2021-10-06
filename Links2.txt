@@ -69,6 +69,7 @@ https://www.nvidia.com/en-in/training/online/
 https://developer.nvidia.com/embedded/learn/jetson-ai-certification-programs
 https://docs.nvidia.com/metropolis/deepstream/dev-guide/text/DS_Python_Sample_Apps.html
 https://youtu.be/hSegX0P170s
+https://www.nvidia.com/en-us/training/resources/
 
 Jetson AI Fundamentals - playlist
 https://youtube.com/playlist?list=PL5B692fm6--uQRRDTPsJDp4o0xbzkoyf8
