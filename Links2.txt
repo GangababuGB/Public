@@ -22,6 +22,10 @@ https://www.programiz.com/python-programming/methods/built-in
 
 Andreas Mueller
 https://github.com/amueller/introduction_to_ml_with_python
+https://github.com/amueller/ml-workshop-1-of-4
+https://github.com/amueller/ml-workshop-2-of-4
+https://github.com/amueller/ml-workshop-3-of-4
+https://github.com/amueller/ml-workshop-4-of-4
 
 Python challenges:
 https://drive.google.com/drive/folders/1xiq70N-rn75qksQPN2chSFQlGHnn2-V7
