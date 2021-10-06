@@ -6,6 +6,12 @@ https://www.datarobot.com/wiki/supervised-machine-learning/
 
 By Google:
 https://developers.google.com/machine-learning/crash-course
+https://developers.google.com/machine-learning/problem-framing
+https://developers.google.com/machine-learning/data-prep
+https://developers.google.com/machine-learning/clustering
+https://developers.google.com/machine-learning/recommendation
+https://developers.google.com/machine-learning/testing-debugging
+https://developers.google.com/machine-learning/gan
 
 Python:
 data-structures-and-algorithms-in-python:
