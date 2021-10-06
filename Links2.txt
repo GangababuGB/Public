@@ -4,6 +4,9 @@ https://www.ritchieng.com/machine-learning-resources/
 https://elitedatascience.com/learn-machine-learning
 https://www.datarobot.com/wiki/supervised-machine-learning/
 
+By Google:
+https://developers.google.com/machine-learning/crash-course
+
 Python:
 data-structures-and-algorithms-in-python:
 https://jovian.ai/learn/data-structures-and-algorithms-in-python
