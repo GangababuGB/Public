@@ -4,6 +4,15 @@ https://www.ritchieng.com/machine-learning-resources/
 https://elitedatascience.com/learn-machine-learning
 https://www.datarobot.com/wiki/supervised-machine-learning/
 
+https://www.guru99.com/data-science-vs-machine-learning.html
+https://www.guru99.com/artificial-intelligence-tutorial.html
+https://www.guru99.com/machine-learning-tutorial.html
+https://www.guru99.com/supervised-machine-learning.html
+https://www.guru99.com/deep-learning-tutorial.html
+https://www.guru99.com/unsupervised-machine-learning.html
+https://www.guru99.com/machine-learning-vs-deep-learning.html
+https://www.guru99.com/reinforcement-learning-tutorial.html
+
 By Google:
 https://developers.google.com/machine-learning/crash-course
 https://developers.google.com/machine-learning/problem-framing
