@@ -81,3 +81,6 @@ https://youtube.com/playlist?list=PL5B692fm6--uQRRDTPsJDp4o0xbzkoyf8
 
 Certificate:
 https://courses.nvidia.com/certificates/d2189671e6964097af9c9d7687d6f89d
+
+
+https://www.coingecko.com/en/coins/beldex/inr
