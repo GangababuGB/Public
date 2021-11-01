@@ -5,3 +5,4 @@ https://www.youtube.com/watch?v=UCxA8sDltMY
 https://www.youtube.com/watch?v=p36tXHX1JD8
 https://www.freecodecamp.org/news/how-to-make-an-nft-and-render-on-opensea-marketplace/
 https://www.crio.do/projects/category/python-projects/?utm_source=adwords&gclid=EAIaIQobChMIhJvEhKn28wIVyyFgCh1ZswnLEAAYASAAEgK2q_D_BwE
+https://betterprogramming.pub/creating-generative-art-nfts-with-python-solidity-a95eaeea515e
