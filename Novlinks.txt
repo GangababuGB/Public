@@ -1,0 +1,41 @@
+TS
+https://towardsdatascience.com/advanced-time-series-analysis-with-arma-and-arima-a7d9b589ed6d
+TS Stock
+https://towardsdatascience.com/time-series-forecasting-in-real-life-budget-forecasting-with-arima-d5ec57e634cb
+
+Hoe to make a NN in python
+https://youtu.be/9UBqkUJVP4g?t=837
+
+GL Unlisted
+How do we forecast using analytics explained about weather & stock prices
+https://www.youtube.com/watch?v=Je66ZrOxpvo
+Oops
+https://olympus.greatlearning.in/courses/7870/pages/316002?module_item_id=556306
+GL Interview
+https://olympus.greatlearning.in/courses/58704/modules/items/1797896
+
+Panapto
+https://greatlearning.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx
+
+https://paperswithcode.com/
+https://paperswithcode.com/task/time-series-forecasting/codeless
+https://paperswithcode.com/task/multivariate-time-series-forecasting
+
+https://github.com/Apress/hands-on-time-series-analylsis-python
+https://www.programiz.com/python-programming/methods/built-in
+
+Personal GL Drive shared
+https://drive.google.com/drive/folders/1xiq70N-rn75qksQPN2chSFQlGHnn2-V7
+
+10Days of statistics
+https://drive.google.com/drive/folders/1u8nxCL4lZwEIavDZDFNwoD2OM-Kj9pv-
+
+Personal Github link
+https://github.com/GangababuGB/Public/blob/master/mhr.txt
+
+https://nbviewer.org/
+
+TS
+https://colab.research.google.com/github/https-deeplearning-ai/tensorflow-1-public/blob/adding_C4/C4/W4/ungraded_labs/C4_W4_Lab_2_Sunspots.ipynb#scrollTo=NcG9r1eClbTh
+https://www.kaggle.com/robervalt/sunspots
+https://mobidev.biz/blog/machine-learning-methods-demand-forecasting-retail
