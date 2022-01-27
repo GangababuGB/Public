@@ -1,0 +1,26 @@
+https://github.com/GangababuGB/data-science
+https://www.coursera.org/learn/machine-learning
+https://www.udacity.com/course/intro-to-machine-learning--ud120
+https://www.edx.org/course/mining-massive-datasets
+https://www.coursera.org/learn/process-mining
+https://www.udacity.com/course/intro-to-tensorflow-for-deep-learning--ud187
+
+Data Structures and Algorithms
+https://www.geeksforgeeks.org/python-data-structures-and-algorithms/
+DS:
+Collection data structures (lists, arrays, linked lists, queues, stack)
+Recursion
+Trees
+Maps and Hashing
+
+Algorithms:
+Binary Search
+Sorting Algorithms
+Divide & Conquer Algorithms
+Adv Algorithms:
+Greedy, Graph, Dynamic, Linear Programming
+
+Paid:
+https://www.udacity.com/course/robotics-software-engineer--nd209
+https://www.udacity.com/course/intel-edge-ai-for-iot-developers-nanodegree--nd131
+
