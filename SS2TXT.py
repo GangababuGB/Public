@@ -1,3 +1,5 @@
+# https://digi.bib.uni-mannheim.de/tesseract/
+
 import os
 import pytesseract as pt
 from PIL import Image
